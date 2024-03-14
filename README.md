@@ -1,4 +1,4 @@
-# 크래프톤 정글 수료중
+# 크래프톤 정글 수료
 
 <div align="center">
     <h3>Familiar Languages</h3>
